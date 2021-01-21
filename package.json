@@ -1,0 +1,17 @@
+{
+  "name": "fish-11ty",
+  "version": "1.0.0",
+  "description": "The falmouth fish site in 11ty",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.16.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "author": "Martin Coote",
+  "license": "ISC"
+}
