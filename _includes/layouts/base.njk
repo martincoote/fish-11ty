@@ -6,6 +6,23 @@
   <title>Document</title>
 </head>
 <body>
-  {{ content | safe }}
+  <header>
+    <h1>{{ global.short_name }}</h1>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/members">Members</a>
+    </nav>
+  </header>
+  <main>
+    {{ content | safe }}
+    {% for member in members %}
+      {% if member.name === name %}
+        <p>{{ member.name }}</p>
+      {% endif %}
+    {% endfor %}
+  </main>
+  <footer>
+    <p>&copy; Copyright {{ global.long_name }}</p>
+  </footer>
 </body>
 </html>

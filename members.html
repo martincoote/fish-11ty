@@ -1,0 +1,12 @@
+---
+layout: '/layouts/base.njk'
+pagination:
+    data: members
+    size: 1
+    alias: member
+permalink: "members/{{ member.name | slug }}/"
+---
+
+<h1>{{ member.name }}</h1>
+
+<p>{{ member.bio }}</p>

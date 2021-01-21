@@ -1,0 +1,12 @@
+---
+layout: '/layouts/base.njk'
+permalink: "members/"
+---
+
+<ul>
+  {% for member in members %}
+    <li>
+      <a href="{{ member.name | slug }}">{{ member.name }}</a>
+    </li>
+  {% endfor %}
+</ul>

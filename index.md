@@ -1,8 +1,10 @@
 ---
 layout: '/layouts/base.njk'
-title: 'The Falmouth Fish Sea Shanty Collective'
+name: "Martin"
 ---
 
-# {{ title }} Welcomes you!
+# {{ global.short_name }} welcomes you!
 
-The Falmouth Fish are a sea shanty band of fame.
+{{ global.short_name }} are a sea shanty band of fame.
+
+
