@@ -4,9 +4,11 @@ permalink: "songs/"
 ---
 
 <ul>
-  {% for song in songlist %}
+  {% for song in songlist | sort(false, false, "name") %}
     <li>
       <a href="{{ song.slug }}">{{ song.name }}</a>
     </li>
   {% endfor %}
 </ul>
+
+{{ songlist.length }}
