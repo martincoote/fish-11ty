@@ -1,0 +1,18 @@
+---
+layout: '/layouts/base.njk'
+pagination:
+  data: songlist
+  size: 1
+  alias: song
+permalink: 'songs/{{ song.slug }}/'
+---
+
+<h1>{{ song.name }}</h1>
+
+<h2>Singer{% if song.singers.length > 1 %}s{% endif %}</h2>
+
+<ul>
+  {% for singer in song.singers %}
+    <li>{{ singer }}</li>
+  {% endfor %}
+</ul>

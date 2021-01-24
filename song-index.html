@@ -1,0 +1,12 @@
+---
+layout: '/layouts/base.njk'
+permalink: "songs/"
+---
+
+<ul>
+  {% for song in songlist %}
+    <li>
+      <a href="{{ song.slug }}">{{ song.name }}</a>
+    </li>
+  {% endfor %}
+</ul>

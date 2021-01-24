@@ -1,0 +1,232 @@
+[
+  {
+    "singers": ["Dan"],
+    "name": "Mingulay Boat Song",
+    "slug": "mingulay"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Paddy on the Railway",
+    "slug": "paddy"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Sally Brown",
+    "slug": "sally-brown"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Fiddler's Green",
+    "slug": "fiddlers-green"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Rolling Down to Old Maui",
+    "slug": "old-maui"
+  },
+  {
+    "singers": [
+      "Dan",
+      "Steve"
+    ],
+    "name": "All for Me Grog",
+    "slug": "grog"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Home Boys Home",
+    "slug": "home-boys-home"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Blood Red Roses",
+    "slug": "blood-red-roses"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Farewell to Carlingford",
+    "slug": "carlingford"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Eliza Lee",
+    "slug": "eliza-lee"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Bonny Ship the Diamond",
+    "slug": "bonny-ship-diamond"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "General Taylor",
+    "slug": "general-taylor"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Spanish Ladies",
+    "slug": "spanish-ladies"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Bully in the Alley",
+    "slug": "bully-alley"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Eagle Alley",
+    "slug": "eagle-alley"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Row On",
+    "slug": "row-on"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Back and Sides Go Bare",
+    "slug": "back-and-sides"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Anderson's Coast",
+    "slug": "andersons-coast"
+  },
+  {
+    "singers": ["Dan"],
+    "name": "Noah's Ark Shanty",
+    "slug": "noahs-ark-shanty"
+  },
+  {
+    "singers": ["Rich"],
+    "name": "Hullabaloo Belay",
+    "slug": "hullabaloo-belay"
+  },
+  {
+    "singers": ["Rich"],
+    "name": "Shiver My Timbers",
+    "slug": "shiver-my-timbers"
+  },
+  {
+    "singers": ["Rich"],
+    "name": "Sailor Ain't a Sailor",
+    "slug": "sailor-aint-a-sailor"
+  },
+  {
+    "singers": ["Rich"],
+    "name": "Frobisher Bay",
+    "slug": "frobisher-bay"
+  },
+  {
+    "singers": ["Rich"],
+    "name": "Northwest Passage",
+    "slug": "northwest-passage"
+  },
+  {
+    "singers": ["Rich"],
+    "name": "Magellan",
+    "slug": "magellan"
+  },
+  {
+    "singers": ["Rich"],
+    "name": "Roseanna",
+    "slug": "roseanna"
+  },
+  {
+    "singers": ["Josh"],
+    "name": "Greenland Whale Fisheries",
+    "slug": "greenland"
+  },
+  {
+    "singers": ["Josh"],
+    "name": "Barrett's Privateers",
+    "slug": "barretts-privateers"
+  },
+  {
+    "singers": ["Josh"],
+    "name": "Rollicking Randy Dandy Oh",
+    "slug": "randy-dandy-oh"
+  },
+  {
+    "singers": ["Josh"],
+    "name": "Two Recruiting Sergeants",
+    "slug": "recruiting-sergeants"
+  },
+  {
+    "singers": ["Martin"],
+    "name": "A Day in the Life",
+    "slug": "day-in-life"
+  },
+  {
+    "singers": ["Martin"],
+    "name": "Weary Whaling Ground",
+    "slug": "weary-whaling-ground"
+  },
+  {
+    "singers": ["Lisa"],
+    "name": "The Mermaid",
+    "slug": "mermaid"
+  },
+  {
+    "singers": [
+      "Lisa",
+      "Melodye"
+    ],
+    "name": "Leave Her Johnny",
+    "slug": "leave-her-johnny"
+  },
+  {
+    "singers": [
+      "Lisa",
+      "Naomi"
+    ],
+    "name": "Swig the Flowing Can",
+    "slug": "flowing-can"
+  },
+  {
+    "singers": ["Melodye"],
+    "name": "Twiddly Aye",
+    "slug": "twiddly-aye"
+  },
+  {
+    "singers": ["Melodye"],
+    "name": "Rolling Sea",
+    "slug": "rolling-sea"
+  },
+  {
+    "singers": [
+      "Naomi",
+      "Steve"
+    ],
+    "name": "Strike the Bell",
+    "slug": "strike-the-bell"
+  },
+  {
+    "singers": [
+      "Lisa",
+      "Naomi",
+      "Melodye"
+    ],
+    "name": "Drinking Song from the Tomb",
+    "slug": "drinking-song"
+  },
+  {
+    "singers": [
+      "Lisa",
+      "Naomi",
+      "Melodye"
+    ],
+    "name": "Ballad of the White Seal Maid",
+    "slug": "white-seal-maid"
+  },
+  {
+    "singers": ["Steve"],
+    "name": "Derby Ram",
+    "slug": "derby-ram"
+  },
+  {
+    "singers": [ "Dave" ],
+    "name": "Fire Marengo",
+    "slug": "fire-marengo"
+  }
+]
