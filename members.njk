@@ -9,7 +9,9 @@ permalink: "members/{{ member.name | slug }}/"
 
 <h1>{{ member.name }}</h1>
 
-<h2>{{ member.tag }}</h2>
+{% if member.tag %} 
+    <h2>"{{ member.tag }}"</h2>
+{% endif %}
 
 {% if member.bio %}
     {{ member.bio | markdown | safe }}

@@ -12,18 +12,17 @@
       <a href="/">Home</a>
       <a href="/members">Members</a>
       <a href="/songs">Songs</a>
+      <hr />
     </nav>
   </header>
+
   <main>
     {{ content | safe }}
-    {% for member in members %}
-      {% if member.name === name %}
-        <p>{{ member.name }}</p>
-      {% endif %}
-    {% endfor %}
   </main>
+
   <footer>
+    <hr />
     <p>&copy; Copyright {{ global.long_name }}</p>
   </footer>
 </body>
-</html>
+</html> 

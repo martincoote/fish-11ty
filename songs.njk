@@ -16,3 +16,7 @@ permalink: 'songs/{{ song.slug }}/'
     <li>{{ singer }}</li>
   {% endfor %}
 </ul>
+
+{% if song.lyrics %}
+  {{ song.lyrics | markdown | safe }}
+{% endif %}
